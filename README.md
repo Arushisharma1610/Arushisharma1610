@@ -1,4 +1,4 @@
-<h2 align="left">Hi , I'm Arushi Sharma👋!</h2>
+<h1  style="color📘"align="left">Hi , I'm Arushi Sharma👋!</h1>
 
 ###
 
