@@ -1,4 +1,4 @@
-<h1  style="color📘"align="left">Hi , I'm Arushi Sharma👋!</h1>
+<h1 align="center" justify="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Arushi+Sharma+👋;" height = "40%" width = "100%"></h1>
 
 ###
 
