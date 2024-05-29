@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi, I'm Arushi Sharma 👋</h2>
+<h1 align="left">Hi, I'm Arushi Sharma 👋</h1>
 
 ###
 
